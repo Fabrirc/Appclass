@@ -1,0 +1,37 @@
+.inputs {
+  display: grid;
+  padding: 20px 30%;
+  gap: 10px;
+}
+
+.meme {
+  display: grid;
+  place-items: center;
+}
+
+.meme button {
+  width: 100px;
+}
+
+.meme img {
+  width: 700px;
+}
+
+.memeImg {
+  position: relative;
+}
+
+.texto1 {
+  font-size: 50px;
+  position: absolute;
+  top: 10%;
+  background-color: none;
+  left: 10%;
+}
+
+.texto2 {
+  font-size: 50px;
+  position: absolute;
+  bottom: 5%;
+  left: 10%;
+}

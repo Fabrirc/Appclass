@@ -1,0 +1,5 @@
+.memeGrid {
+  margin: 50px;
+  display: grid;
+  gap: 50px;
+}
